@@ -309,6 +309,7 @@
       return state.allItems
         .filter((item) => {
           if (item.price_wan > state.maxPrice) return false;
+          if (item.age_years != null && Number(item.age_years) > 30) return false;
           if (state.onlyNeihu && !isNeihuItem(item)) return false;
           if (state.line !== 'ALL' && item.mrt_line !== state.line) return false;
           if (state.station !== 'ALL' && item.mrt_station !== state.station) return false;
@@ -420,6 +421,7 @@
                   <div class="flex flex-wrap gap-1.5 text-xs text-slate-600">
                     <span class="px-2 py-0.5 bg-slate-100 rounded font-medium">${escapeHtml(item.district || '臺北市')}</span>
                     ${item.area_ping ? `<span class="px-2 py-0.5 bg-slate-100 rounded">${escapeHtml(item.area_ping)} 坪</span>` : ''}
+                    ${item.age_years ? `<span class="px-2 py-0.5 bg-slate-100 rounded">${escapeHtml(item.age_years)} 年</span>` : ''}
                     ${item.layout ? `<span class="px-2 py-0.5 bg-slate-100 rounded">${escapeHtml(item.layout)}</span>` : ''}
                     ${item.floor ? `<span class="px-2 py-0.5 bg-slate-100 rounded">${escapeHtml(item.floor)}</span>` : ''}
                   </div>
