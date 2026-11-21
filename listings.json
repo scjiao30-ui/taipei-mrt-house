@@ -1,11 +1,30 @@
 {
-  "updated_at": "2026-11-21 21:24",
+  "updated_at": "2026-11-21 21:29",
   "max_price_wan": 1500,
   "max_age_years": 30.0,
   "priority_district": "內湖區",
   "is_demo": false,
-  "count": 15,
+  "count": 16,
   "items": [
+    {
+      "id": "rk-0ba01f355734597",
+      "title": "黃金發燒區",
+      "price_wan": 1188,
+      "age_years": null,
+      "area_ping": 11.9,
+      "layout": "",
+      "floor": "",
+      "district": "內湖區",
+      "mrt_station": "臺北捷運",
+      "mrt_line": "BR",
+      "mrt_distance_m": null,
+      "images": [
+        "https://static.rakuya.com.tw/r1/n459/68/3f/35573459_1_c.jpeg?1790081140"
+      ],
+      "source": "樂屋網",
+      "posted_at": "2026-11-21 21:29",
+      "url": "https://www.rakuya.com.tw/sell_item/info?ehid=0ba01f355734597&amp;from=list_onfire"
+    },
     {
       "id": "591-21210599",
       "title": "🌈捷運西湖站600米🍎北市超低總價電梯雙拼🌈成家首選",
@@ -23,7 +42,7 @@
         "https://img.youtube.com/vi/9XfRs5VkM5U/hqdefault.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/21210599.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -40,10 +59,10 @@
       "mrt_distance_m": null,
       "images": [
         "https://img1.591.com.tw/user/2019/07/02/156206245129648809.jpg!100x100.jpg",
-        "https://img2.591.com.tw/house/2026/10/31/179342764083722803.jpg!400x300.jpg"
+        "https://img1.591.com.tw/house/2026/10/31/179342764083722803.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20968594.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -60,10 +79,10 @@
       "mrt_distance_m": null,
       "images": [
         "https://img2.591.com.tw/user/2017/02/17/148731223859583900.jpg!100x100.jpg",
-        "https://img1.591.com.tw/house/2026/11/09/179420062844797803.jpg!400x300.jpg"
+        "https://img2.591.com.tw/house/2026/11/09/179420062844797803.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20998131.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -82,7 +101,7 @@
         "https://img2.591.com.tw/house/2026/09/16/178955025284615501.jpg!fit.1000x.water2.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/21223179.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -98,14 +117,14 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/house/2026/02/02/177003595455194502.jpg!400x300.jpg"
+        "https://img2.591.com.tw/house/2026/02/02/177003595455194502.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20985276.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
-      "id": "591-25521084",
+      "id": "591-25521002",
       "title": "東湖捷運站低總價高投報電梯獨立景觀套房",
       "price_wan": 898,
       "age_years": 28.0,
@@ -117,11 +136,11 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img.youtube.com/vi/fuGeetASCYw/hqdefault.jpg"
+        "https://img2.591.com.tw/house/2026/10/11/179172209900148405.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
-      "url": "https://sale.591.com.tw/home/house/detail/2/25521084.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
+      "posted_at": "2026-11-21 21:29",
+      "url": "https://sale.591.com.tw/home/house/detail/2/25521002.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
       "id": "591-20982751",
@@ -140,7 +159,7 @@
         "https://img1.591.com.tw/house/2026/07/13/178391024550040601.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20982751.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -156,11 +175,11 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img2.591.com.tw/user/2021/12/07/163888952765596254.jpg!100x100.jpg",
-        "https://img1.591.com.tw/house/2026/04/21/177678477818005500.jpg!400x300.jpg"
+        "https://img1.591.com.tw/user/2021/12/07/163888952765596254.jpg!100x100.jpg",
+        "https://img2.591.com.tw/house/2026/04/21/177678477818005500.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20975172.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -176,10 +195,10 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/house/2026/09/30/179073561013996805.jpg!400x300.jpg"
+        "https://img2.591.com.tw/house/2026/09/30/179073561013996805.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20479233.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -195,11 +214,11 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/user/2015/08/01/143839726562303709.jpg!100x100.jpg",
+        "https://img2.591.com.tw/user/2015/08/01/143839726562303709.jpg!100x100.jpg",
         "https://img1.591.com.tw/house/2026/08/20/178720769671847909.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/21262631.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -215,11 +234,11 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/user/2024/11/17/1731843987148.jpg!100x100.jpg",
+        "https://img2.591.com.tw/user/2024/11/17/1731843987148.jpg!100x100.jpg",
         "https://img1.591.com.tw/house/2026/07/25/178494947115715006.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/20765888.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -235,11 +254,11 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/user/2026/06/08/5311573/1780897800528.jpg!100x100.jpg",
+        "https://img2.591.com.tw/user/2026/06/08/5311573/1780897800528.jpg!100x100.jpg",
         "https://img2.591.com.tw/house/2026/06/14/178140604275542104.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/21040725.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -256,30 +275,11 @@
       "mrt_distance_m": null,
       "images": [
         "https://img1.591.com.tw/user/2025/10/03/1701000/1759476045253.jpg!100x100.jpg",
-        "https://img1.591.com.tw/house/2026/10/21/179259446043054105.jpg!400x300.jpg"
+        "https://img2.591.com.tw/house/2026/10/21/179259446043054105.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/21106842.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
-    },
-    {
-      "id": "rk-0ba01f355734597",
-      "title": "黃金發燒區",
-      "price_wan": 1188,
-      "age_years": null,
-      "area_ping": 11.9,
-      "layout": "",
-      "floor": "",
-      "district": "內湖區",
-      "mrt_station": "臺北捷運",
-      "mrt_line": "BR",
-      "mrt_distance_m": null,
-      "images": [
-        "https://static.rakuya.com.tw/r1/n459/68/3f/35573459_1_c.jpeg?1790081140"
-      ],
-      "source": "樂屋網",
-      "posted_at": "2026-11-21 21:23",
-      "url": "https://www.rakuya.com.tw/sell_item/info?ehid=0ba01f355734597&amp;from=list_onfire"
     },
     {
       "id": "591-21233666",
@@ -294,13 +294,32 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/user/2024/01/05/1704449816202.jpg!100x100.jpg",
-        "https://img2.591.com.tw/house/2026/11/06/179395269682407502.jpeg!fit.272x182.jpeg",
+        "https://img2.591.com.tw/user/2024/01/05/1704449816202.jpg!100x100.jpg",
+        "https://img1.591.com.tw/house/2026/11/06/179395269682407502.jpeg!fit.272x182.jpeg",
         "https://img1.591.com.tw/house/2026/11/19/179507304277044701.jpg!fit.272x182.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 21:24",
+      "posted_at": "2026-11-21 21:29",
       "url": "https://sale.591.com.tw/home/house/detail/2/21233666.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
+    },
+    {
+      "id": "591-21096381",
+      "title": "猜你喜歡",
+      "price_wan": 938,
+      "age_years": null,
+      "area_ping": 0.0,
+      "layout": "",
+      "floor": "",
+      "district": "中山區",
+      "mrt_station": "民權西路",
+      "mrt_line": "R",
+      "mrt_distance_m": null,
+      "images": [
+        "https://img1.591.com.tw/house/2026/08/21/178728616623380603.jpg!400x300.jpg"
+      ],
+      "source": "591 售屋網",
+      "posted_at": "2026-11-21 21:29",
+      "url": "https://sale.591.com.tw/home/house/detail/2/21096381.html"
     }
   ]
 }
