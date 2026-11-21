@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 23:07",
+  "updated_at": "2026-11-21 23:25",
   "max_price_wan": 1500,
   "max_age_years": 30.0,
   "priority_district": "內湖區",
   "is_demo": false,
-  "count": 18,
+  "count": 15,
   "items": [
     {
       "id": "591-21210599",
@@ -20,46 +20,8 @@
       "mrt_distance_m": null,
       "images": [],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/21210599.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
-    },
-    {
-      "id": "591-20998131",
-      "title": "內湖捷運AIT邊間高樓景觀宅",
-      "price_wan": 1388,
-      "age_years": 29.0,
-      "area_ping": 0.0,
-      "layout": "",
-      "floor": "",
-      "district": "內湖區",
-      "mrt_station": "內湖",
-      "mrt_line": "BR",
-      "mrt_distance_m": null,
-      "images": [
-        "https://img1.591.com.tw/house/2026/11/09/179419692198135207.jpg!400x300.jpg"
-      ],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/20998131.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
-    },
-    {
-      "id": "591-20968594",
-      "title": "(專任約)⭐超A案⭐力霸溫馨套房",
-      "price_wan": 888,
-      "age_years": 29.0,
-      "area_ping": 0.0,
-      "layout": "",
-      "floor": "",
-      "district": "內湖區",
-      "mrt_station": "內湖",
-      "mrt_line": "BR",
-      "mrt_distance_m": null,
-      "images": [
-        "https://img2.591.com.tw/house/2026/11/09/179420062844797803.jpg!400x300.jpg"
-      ],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/20968594.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
       "id": "591-21223179",
@@ -74,15 +36,51 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/house/2026/10/11/179172209900148405.jpg!400x300.jpg"
+        "https://img1.591.com.tw/house/2026/09/21/178996616296252207.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/21223179.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
+      "id": "591-20968594",
+      "title": "(專任約)⭐超A案⭐力霸溫馨套房",
+      "price_wan": 888,
+      "age_years": 29.0,
+      "area_ping": 0.0,
+      "layout": "",
+      "floor": "",
+      "district": "內湖區",
+      "mrt_station": "內湖",
+      "mrt_line": "BR",
+      "mrt_distance_m": null,
+      "images": [],
+      "source": "591 售屋網",
+      "posted_at": "2026-11-21 23:24",
+      "url": "https://sale.591.com.tw/home/house/detail/2/20968594.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
+    },
+    {
+      "id": "591-20998131",
+      "title": "內湖捷運AIT邊間高樓景觀宅",
+      "price_wan": 1388,
+      "age_years": 29.0,
+      "area_ping": 0.0,
+      "layout": "",
+      "floor": "",
+      "district": "內湖區",
+      "mrt_station": "內湖",
+      "mrt_line": "BR",
+      "mrt_distance_m": null,
+      "images": [
+        "https://img2.591.com.tw/house/2026/10/31/179342764083722803.jpg!400x300.jpg"
+      ],
+      "source": "591 售屋網",
+      "posted_at": "2026-11-21 23:24",
+      "url": "https://sale.591.com.tw/home/house/detail/2/20998131.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
+    },
+    {
       "id": "591-20985276",
-      "title": "【仲霖AIT團隊】888萬即可置產內湖四期(專約)",
+      "title": "智慧推薦 建案",
       "price_wan": 888,
       "age_years": 22.0,
       "area_ping": 0.0,
@@ -93,10 +91,12 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
+        "https://img1.591.com.tw/house/2026/10/02/179093075963082104.jpg!fit.272x182.jpg",
+        "https://img1.591.com.tw/house/2024/08/13/172354290555212601.jpg!fit.272x182.jpg",
         "https://img1.591.com.tw/house/2026/09/16/178955025284615501.jpg!fit.1000x.water2.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/20985276.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -112,10 +112,10 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/house/2026/04/21/177678477818005500.jpg!400x300.jpg"
+        "https://img2.591.com.tw/house/2026/09/30/179073561013996805.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/20982751.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -131,10 +131,10 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img2.591.com.tw/house/2025/11/18/176342465582369604.jpg!fit.1000x.water2.jpg"
+        "https://img1.591.com.tw/house/2025/11/18/176342465582369604.jpg!fit.1000x.water2.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/20975172.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -150,123 +150,66 @@
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/house/2026/09/12/178921436655348202.jpg!400x300.jpg"
+        "https://img2.591.com.tw/house/2026/10/20/179250000960939509.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/20479233.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
-      "id": "591-21013120",
-      "title": "捷運內湖❤️AIT小豪宅千多萬成交",
-      "price_wan": 1388,
-      "age_years": 18.0,
+      "id": "591-20837767",
+      "title": "✨屋主自售~文德好境近捷運.綠意小豪宅套房",
+      "price_wan": 474,
+      "age_years": 7.0,
+      "area_ping": 0.0,
+      "layout": "",
+      "floor": "",
+      "district": "內湖區",
+      "mrt_station": "文德",
+      "mrt_line": "BR",
+      "mrt_distance_m": null,
+      "images": [
+        "https://img1.591.com.tw/house/2026/08/20/178720769671847909.jpg!400x300.jpg"
+      ],
+      "source": "591 售屋網",
+      "posted_at": "2026-11-21 23:24",
+      "url": "https://sale.591.com.tw/home/house/detail/2/20837767.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
+    },
+    {
+      "id": "591-20765888",
+      "title": "🎄雅苑稀有靜謐山景套房🎄",
+      "price_wan": 1050,
+      "age_years": 30.0,
       "area_ping": 0.0,
       "layout": "",
       "floor": "",
       "district": "內湖區",
       "mrt_station": "內湖",
+      "mrt_line": "BR",
+      "mrt_distance_m": null,
+      "images": [
+        "https://img1.591.com.tw/house/2026/06/14/178140604275542104.jpg!400x300.jpg"
+      ],
+      "source": "591 售屋網",
+      "posted_at": "2026-11-21 23:24",
+      "url": "https://sale.591.com.tw/home/house/detail/2/20765888.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
+    },
+    {
+      "id": "tw-TA02220773",
+      "title": "台北晶麒捷運景觀大戶",
+      "price_wan": 1120,
+      "age_years": 10.6,
+      "area_ping": 59.2,
+      "layout": "",
+      "floor": "",
+      "district": "萬華區",
+      "mrt_station": "臺北捷運",
       "mrt_line": "BR",
       "mrt_distance_m": null,
       "images": [],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/21013120.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
-    },
-    {
-      "id": "591-21041551",
-      "title": "內湖捷運景觀屋",
-      "price_wan": 1388,
-      "age_years": 29.0,
-      "area_ping": 0.0,
-      "layout": "",
-      "floor": "",
-      "district": "內湖區",
-      "mrt_station": "內湖",
-      "mrt_line": "BR",
-      "mrt_distance_m": null,
-      "images": [
-        "https://img2.591.com.tw/house/2026/08/30/178807629896508401.jpg!400x300.jpg"
-      ],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/21041551.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
-    },
-    {
-      "id": "rk-0ba01f355734597",
-      "title": "黃金發燒區",
-      "price_wan": 1188,
-      "age_years": null,
-      "area_ping": 11.9,
-      "layout": "",
-      "floor": "",
-      "district": "內湖區",
-      "mrt_station": "內湖",
-      "mrt_line": "BR",
-      "mrt_distance_m": null,
-      "images": [
-        "https://static.rakuya.com.tw/r1/n459/68/3f/35573459_1_c.jpeg?1790081140"
-      ],
-      "source": "樂屋網",
-      "posted_at": "2026-11-21 23:06",
-      "url": "https://www.rakuya.com.tw/sell_item/info?ehid=0ba01f355734597&amp;from=list_onfire"
-    },
-    {
-      "id": "591-21267521",
-      "title": "猜你喜歡",
-      "price_wan": 938,
-      "age_years": null,
-      "area_ping": 0.0,
-      "layout": "",
-      "floor": "",
-      "district": "中山區",
-      "mrt_station": "中山國小",
-      "mrt_line": "O",
-      "mrt_distance_m": null,
-      "images": [
-        "https://img1.591.com.tw/house/2026/11/16/179481406350048608.jpg!400x300.jpg"
-      ],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/21267521.html"
-    },
-    {
-      "id": "591-21283151",
-      "title": "3分鐘前更新 近一週189次曝光 大搶手👍獨賣！新上市後山埤捷運面校園綠景靜巷4房 信義區 4房2廳1衛 28.79坪 ",
-      "price_wan": 938,
-      "age_years": null,
-      "area_ping": 0.0,
-      "layout": "",
-      "floor": "",
-      "district": "信義區",
-      "mrt_station": "後山埤",
-      "mrt_line": "BL",
-      "mrt_distance_m": null,
-      "images": [
-        "https://img2.591.com.tw/house/2026/11/18/179501396206413404.jpg!fit.1000x.water2.jpg"
-      ],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/21283151.html"
-    },
-    {
-      "id": "591-21089917",
-      "title": "8分鐘前更新 近一週116次曝光 潘安推薦📍奧林匹克近北投捷運稀有樓中樓採光4房 北投區 4房3廳2衛 95.39坪 7",
-      "price_wan": 1280,
-      "age_years": null,
-      "area_ping": 0.0,
-      "layout": "",
-      "floor": "",
-      "district": "北投區",
-      "mrt_station": "北投",
-      "mrt_line": "R",
-      "mrt_distance_m": null,
-      "images": [
-        "https://img2.591.com.tw/house/2026/09/01/178824020236149606.jpg!400x300.jpg"
-      ],
-      "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/21089917.html"
+      "source": "台灣房屋",
+      "posted_at": "2026-11-21 23:24",
+      "url": "https://www.twhg.com.tw/buy/TA02220773"
     },
     {
       "id": "591-21233666",
@@ -286,7 +229,7 @@
         "https://img2.591.com.tw/house/2026/11/04/179376496624933208.jpg!fit.272x182.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/21233666.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -305,7 +248,7 @@
         "https://img1.591.com.tw/house/2026/11/20/179514376146027207.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/20702917.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
@@ -321,32 +264,30 @@
       "mrt_line": "O",
       "mrt_distance_m": null,
       "images": [
-        "https://img2.591.com.tw/house/2026/11/20/179516649162378409.jpg!1000x.water2.jpg",
-        "https://s.591.com.tw/house/ai-deco-simple.BZncfnxG.gif",
-        "https://img1.591.com.tw/house/2026/11/20/179516649162378409.jpg!1000x.water2.jpg"
+        "https://img1.591.com.tw/house/2026/05/11/177848530530783000.jpg!400x300.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
+      "posted_at": "2026-11-21 23:24",
       "url": "https://sale.591.com.tw/home/house/detail/2/21234456.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     },
     {
-      "id": "591-20989011",
-      "title": "8分鐘前更新 近一週259次曝光 潘安推薦🍎北投近公園邊間大空間採光明亮透天 北投區 6房2廳3衛 40.98坪 2,9",
-      "price_wan": 898,
-      "age_years": null,
+      "id": "591-25555689",
+      "title": "💎獨家💎中山國小捷運幸福美宅",
+      "price_wan": 938,
+      "age_years": 30.0,
       "area_ping": 0.0,
       "layout": "",
       "floor": "",
-      "district": "北投區",
-      "mrt_station": "北投",
-      "mrt_line": "R",
+      "district": "中山區",
+      "mrt_station": "中山國小",
+      "mrt_line": "O",
       "mrt_distance_m": null,
       "images": [
-        "https://img1.591.com.tw/house/2026/03/29/177475390811936907.jpg!400x300.jpg"
+        "https://img1.591.com.tw/house/2026/09/26/179042183335892806.jpg!1000x.water2.jpg"
       ],
       "source": "591 售屋網",
-      "posted_at": "2026-11-21 23:07",
-      "url": "https://sale.591.com.tw/home/house/detail/2/20989011.html"
+      "posted_at": "2026-11-21 23:24",
+      "url": "https://sale.591.com.tw/home/house/detail/2/25555689.html?itm_source=sale&amp;itm_medium=list&amp;itm_campaign=filter_results"
     }
   ]
 }
