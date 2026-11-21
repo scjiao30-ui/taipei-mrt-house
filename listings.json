@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-11-21 19:57",
+  "max_price_wan": 1500,
+  "priority_district": "內湖區",
+  "is_demo": false,
+  "count": 1,
+  "items": [
+    {
+      "id": "sy-9049KM",
+      "title": "s=\"buyHouseCard_houseSpecCard__divider__yuafM",
+      "price_wan": 1150,
+      "area_ping": 12.7,
+      "layout": "3房2廳1衛",
+      "floor": "",
+      "district": "內湖區",
+      "mrt_station": "內湖",
+      "mrt_line": "BR",
+      "mrt_distance_m": null,
+      "images": [
+        "https://res.sinyi.com.tw/buy/9049KM/smallimg/A.JPG",
+        "https://res.sinyi.com.tw/res/images/imagehousebuy/ic-3dvr.svg",
+        "https://res.sinyi.com.tw/res/images/imagehousebuy/ic-video.svg"
+      ],
+      "source": "信義房屋",
+      "posted_at": "2026-11-21 19:57",
+      "url": "https://www.sinyi.com.tw/buy/house/9049KM?breadcrumb=list"
+    }
+  ]
+}
